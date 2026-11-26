@@ -1,0 +1,13 @@
+setup table
+
+Where	             What you check	                                          Expected	                                                       My result
+U1 step 4	         the password is in the password manager	                the entry "Supabase UrbanStyle" exists	                         Done
+U1 step 6	         project home page	                                      name UrbanStyle, home page opens                                 Done                                          	
+U1 step 7	         SELECT 1 AS test;	                                      test = 1	                                                       Done
+U1 step 10	       Try it yourself: greeting	                              Hello, UrbanStyle!	                                             Done
+U2 step 8	         commits in the history	                                  3	                                                               Done
+U2 step 9	         Try it yourself: folders and commits	                    week-0, week-1, 4 commits	                                       Done
+U3 step 4	         sources in NotebookLM	                                  6	                                                               Done
+U3 step 9	         citation in the answer to "Who is Toomas Kask?"	        a citation to a DACA source, for example N00_060	               Done
+U4	               my route and check	                                      Windows route: button                                            Done
+                                                                            Get data · browser route: pandas works
